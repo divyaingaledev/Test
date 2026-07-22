@@ -1,2 +1,2 @@
 # Test-Collaboration-Project
-Simple Project
+this is a simple collaboration project
